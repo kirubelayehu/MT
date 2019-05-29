@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034979295721",
+    "firebase_url": "https://imagedatabase-66c39.firebaseio.com",
+    "project_id": "imagedatabase-66c39",
+    "storage_bucket": "imagedatabase-66c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034979295721:android:7cc25e9a42079a91",
+        "android_client_info": {
+          "package_name": "com.asana.mtimageuplading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034979295721-ufdufpij5khuh075e8s3dvf4iopb9aev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asana.mtimageuplading",
+            "certificate_hash": "a8c36a70810c81f9e8f11c820a8e82deae05b85e"
+          }
+        },
+        {
+          "client_id": "1034979295721-f4apaquh65rp0to7kjv74u1fe52t83h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTcR0rlHN19p97Vb9s3lSONYj8lxohYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034979295721-f4apaquh65rp0to7kjv74u1fe52t83h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
